@@ -131,11 +131,6 @@ Full flow: synthesis → floorplan → placement → CTS → routing → DRC →
 
 ---
 
-## Resume Line
-
-> Implemented an 8-bit ALU with 8 operations through complete RTL-to-GDSII flow on SkyWater SKY130 130nm PDK using Yosys + OpenLane + OpenROAD, achieving DRC/LVS clean layout — 247 cells, zero timing violations.
-
----
 
 ## Tags
 
